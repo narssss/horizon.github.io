@@ -1,1 +1,6 @@
 theme: jekyll-theme-architect
+//deployment 
+deploy:
+  type: github
+  repository: https://github.com/horizonvc/horizonvc.github.io 
+  branch: master
